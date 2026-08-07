@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BoasConfig>
+  <DocsParams>
+    <PENameParam>[Comment]</PENameParam>
+    <PENameParam3>TU/GOST</PENameParam3>
+    <PENameParam3alt></PENameParam3alt>
+    <VpAtrib2>Product Code</VpAtrib2>
+    <VpAtrib3>TU/GOST</VpAtrib3>
+    <VpAtrib4>Distributer</VpAtrib4>
+    <VpText5>ДФТВ.434519.003.101</VpText5>
+    <PrimPe></PrimPe>
+    <PrimVp></PrimVp>
+    <PrimSp></PrimSp>
+    <ExportPage1>True</ExportPage1>
+    <ExportPage2>True</ExportPage2>
+    <ExportPage3>True</ExportPage3>
+    <ExportPage4>True</ExportPage4>
+    <LockPage1>True</LockPage1>
+    <LockPage2>True</LockPage2>
+    <LockPage3>True</LockPage3>
+    <LockPage4>True</LockPage4>
+    <ExportSch>False</ExportSch>
+    <LockDocs>False</LockDocs>
+    <RazdelFromAtrib>True</RazdelFromAtrib>
+    <PostStart>1</PostStart>
+    <PosInc>2</PosInc>
+    <ShowRazdel>True</ShowRazdel>
+    <AddRazdel>True</AddRazdel>
+    <OneEntryIsGroup>False</OneEntryIsGroup>
+    <PeFlat>False</PeFlat>
+    <FgNum>True</FgNum>
+    <NoVariants>False</NoVariants>
+    <SpecSort>False</SpecSort>
+    <SpecShowGroup>False</SpecShowGroup>
+    <AddSpecRazdelOne>True</AddSpecRazdelOne>
+    <SpecEmptyLine>True</SpecEmptyLine>
+    <SpecRowMerge>False</SpecRowMerge>
+    <SpecEmptyLineNum>1</SpecEmptyLineNum>
+    <ObozSp></ObozSp>
+    <RazdelSp></RazdelSp>
+    <SpecUseTu>True</SpecUseTu>
+    <SheetName>SheetName</SheetName>
+  </DocsParams>
+  <Positions />
+  <materials />
+  <pelines>
+    <peline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="7" oboz="C1-C7" name="К10-79-10В-0,1 мкФ+80/-20%-Н90 АДПК.673511.021 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C8" name="К10-79-100В-24 пФ±5%-МП0 АДПК.673511.021 ТУ" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C9, C10" name="К10-79-10В-0,1 мкФ+80/-20%-Н90 АДПК.673511.021 ТУ" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C11, C12" name="К10-79-100В-24 пФ±5%-МП0 АДПК.673511.021 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C13" name="К10-79-10В-0,1 мкФ+80/-20%-Н90 АДПК.673511.021 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C14" name="К10-79-100В-24 пФ±5%-МП0 АДПК.673511.021 ТУ" comment="" underline="False" type="None" />
+    <peline num="5" oboz="C15-C19" name="К10-79-10В-0,1 мкФ+80/-20%-Н90 АДПК.673511.021 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C20" name="К10-79-100В-24 пФ±5%-МП0 АДПК.673511.021 ТУ" comment="" underline="False" type="None" />
+    <peline num="3" oboz="C21-C23" name="К10-79-10В-0,1 мкФ+80/-20%-Н90 АДПК.673511.021 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C24" name="К10-79-100В-24 пФ±5%-МП0 АДПК.673511.021 ТУ" comment="" underline="False" type="None" />
+    <peline num="4" oboz="C25-C28" name="К10-79-10В-0,1 мкФ+80/-20%-Н90 АДПК.673511.021 ТУ" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Микросхемы" comment="" underline="False" type="ElementGroup" />
+    <peline num="2" oboz="DA1, DA2" name="GM1117S-3.3ST3RG ДВУК.431433.326-001ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DD1" name="К1986ВЕ92FI ТСКЯ.431000.001 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DD2" name="STM32F103CBU6 фирма STMicroelectronics(ST)" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Приборы световой сигнализации" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="HL1" name="ИПД169А91-Ж АЕЯР.432220.765 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="HL2" name="ИПД169А91-С АЕЯР.432220.765 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="HL3" name="ИПД169А91-Б АЕЯР.432220.765 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="HL4" name="ИПД169А91-K АЕЯР.432220.765 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="HL5" name="KAA-3528ESGC фирма Kingbright" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Резисторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="5" oboz="R1-R5" name="Р1-12-0,1-10 кОм±5%-М-&quot;К&quot; АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="4" oboz="R6-R9" name="Р1-12-0,1-330 Ом±5%-М-&quot;К&quot; АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="2" oboz="R10, R11" name="Р1-12-0,1-10 кОм±5%-М-&quot;К&quot; АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="2" oboz="R12, R13" name="Р1-12-0,1-4.7 кОм±5%-М-&quot;К&quot; АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="4" oboz="R14-R17" name="Р1-12-0,1-10 кОм±5%-М-&quot;К&quot; АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R18" name="Р1-12-0,1-220 Ом±5%-М-&quot;К&quot; АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="2" oboz="R19, R20" name="Р1-12-0,1-100 Ом±5%-М-&quot;К&quot; АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="2" oboz="R21, R22" name="Р1-12-0,1-22 Ом±5%-М-&quot;К&quot; АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R23" name="Р1-12-0,1-1.5 кОм±5%-М-&quot;К&quot; АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="2" oboz="R24, R25" name="Р1-12-0,1-22 Ом±5%-М-&quot;К&quot; АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R26" name="Р1-12-0,1-1.5 кОм±5%-М-&quot;К&quot; АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="2" oboz="SB1, SB2" name="Выключатель кнопочный KLS7-TS6604-7.0-180-B(Т) фирма KLS electronic " comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="co ltd" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="VD1" name="Диод BAT60JFILM фирма ST Microelectronics" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="VT1" name="Транзистор КТ229Г9 АДКБ.432140.555" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Вилки" comment="" underline="False" type="ElementGroup" />
+    <peline num="2" oboz="XP1, XP2" name="СНП377-38ВП21-2-14-6,0 РЮМК.430420.041 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="XP3" name="СНП393-2ВП21-1-01-6,5 РЮМК.430420.051 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="XP4" name="СНП393-3ВП21-1-01-6,5 РЮМК.430420.051 ТУ" comment="" underline="False" type="None" />
+    <peline num="2" oboz="XP5, XP6" name="СНП393-2ВП21-1-01-6,5 РЮМК.430420.051 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="XP7" name="СНП393-6ВП21-1-01-6,5 РЮМК.430420.051 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="XP8" name="СНП393-4ВП21-1-01-6,5 РЮМК.430420.051 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="XP9" name="СНП393-2ВП21-1-01-6,5 РЮМК.430420.051 ТУ" comment="" underline="False" type="None" />
+    <peline num="2" oboz="XP10, XP11" name="СНП377-2ВП21-1-14-6,0 РЮМК.430420.041 ТУ" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Розетки" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="XS1" name="СНП393-8РП21-1 РЮМК.430420.051 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="XS2" name="СНП393-6РП21-1 РЮМК.430420.019 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="XS3" name="СНП393-8РП21-1 РЮМК.430420.051 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="XS4" name="СНП393-10РП21-1 РЮМК.430420.051 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="XS5" name="1734035-1 Фирма &quot;Te Connectivity&quot;" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Резонаторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="ZQ1" name="MC-206 32,768 кГц фирма EPSON" comment="" underline="False" type="None" />
+    <peline num="1" oboz="ZQ2" name="РК597-МД3-5АС-16000К-П24 КЖДГ.433513.026ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="ZQ3" name="РК415-5ДС-8М -3 (24 пФ) ТУ 6321-002-72715118-2006" comment="" underline="False" type="None" />
+  </pelines>
+  <vplines>
+    <vpline num="" oboz="" kod="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="6" oboz="АДПК.673511.021 ТУ" kod="34 1469" name="К10-79-100В-24 пФ±5%-МП0" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО НИИ &quot;Гириконд&quot;" />
+    <vpline num="22" oboz="АДПК.673511.021 ТУ" kod="34 1469" name="К10-79-10В-0,1 мкФ+80/-20%-Н90" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО НИИ &quot;Гириконд&quot;" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Микросхемы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="ДВУК.431433.326-001ТУ" kod="63 3300" name="GM1117S-3.3ST3RG" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО «Микрон»" />
+    <vpline num="1" oboz="фирма STMicroelectronics(ST)" kod="63 3900" name="STM32F103CBU6" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;Чип и Дип&quot;" />
+    <vpline num="1" oboz="ТСКЯ.431000.001 ТУ" kod="63 3900" name="К1986ВЕ92FI" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;ПКК Миландр&quot;" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Приборы световой сигнализации" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="фирма Kingbright" kod="63 1000" name="KAA-3528ESGC" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;Чип и Дип&quot;" />
+    <vpline num="1" oboz="АЕЯР.432220.765 ТУ" kod="63 1000" name="ИПД169А91-K" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;ПРОТОН&quot;" />
+    <vpline num="1" oboz="АЕЯР.432220.765 ТУ" kod="63 1000" name="ИПД169А91-Б" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;ПРОТОН&quot;" />
+    <vpline num="1" oboz="АЕЯР.432220.765 ТУ" kod="63 1000" name="ИПД169А91-Ж" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;ПРОТОН&quot;" />
+    <vpline num="1" oboz="АЕЯР.432220.765 ТУ" kod="63 1000" name="ИПД169А91-С" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;ПРОТОН&quot;" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Резисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="4" oboz="АБШК.434110.023 ТУ" kod="61 9900" name="Р1-12-0,1-22 Ом±5%-М-&quot;К&quot;" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;НПО ЭРКОН&quot;" />
+    <vpline num="2" oboz="АБШК.434110.023 ТУ" kod="61 9900" name="Р1-12-0,1-100 Ом±5%-М-&quot;К&quot;" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;НПО ЭРКОН&quot;" />
+    <vpline num="1" oboz="АБШК.434110.023 ТУ" kod="61 9900" name="Р1-12-0,1-220 Ом±5%-М-&quot;К&quot;" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;НПО ЭРКОН&quot;" />
+    <vpline num="4" oboz="АБШК.434110.023 ТУ" kod="61 9900" name="Р1-12-0,1-330 Ом±5%-М-&quot;К&quot;" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;НПО ЭРКОН&quot;" />
+    <vpline num="2" oboz="АБШК.434110.023 ТУ" kod="61 9900" name="Р1-12-0,1-1.5 кОм±5%-М-&quot;К&quot;" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;НПО ЭРКОН&quot;" />
+    <vpline num="" oboz="" kod="" name="Резисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="АБШК.434110.023 ТУ" kod="61 9900" name="Р1-12-0,1-4.7 кОм±5%-М-&quot;К&quot;" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;НПО ЭРКОН&quot;" />
+    <vpline num="11" oboz="АБШК.434110.023 ТУ" kod="61 9900" name="Р1-12-0,1-10 кОм±5%-М-&quot;К&quot;" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;НПО ЭРКОН&quot;" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Выключатели кнопочные" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="фирма KLS electronic co ltd" kod="34 6422" name="KLS7-TS6604-7.0-180-B(Т)" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;Чип и Дип&quot;" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Диоды" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="фирма ST Microelectronics" kod="63 1000" name="BAT60JFILM" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;Чип и Дип&quot;" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Транзисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="АДКБ.432140.555" kod="63 1000" name="КТ229Г9" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО «ГРУППА КРЕМНИЙ ЭЛ»" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Вилки" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="РЮМК.430420.041 ТУ" kod="34 6430" name="СНП377-2ВП21-1-14-6,0" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;КАРАЧЕВСКИЙ ЗАВОД &quot;ЭЛЕКТРОДЕТАЛЬ&quot;" />
+    <vpline num="2" oboz="РЮМК.430420.041 ТУ" kod="66 7250" name="СНП377-38ВП21-2-14-6,0" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;КАРАЧЕВСКИЙ ЗАВОД &quot;ЭЛЕКТРОДЕТАЛЬ&quot;" />
+    <vpline num="4" oboz="РЮМК.430420.051 ТУ" kod="34 6430" name="СНП393-2ВП21-1-01-6,5" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;КАРАЧЕВСКИЙ ЗАВОД &quot;ЭЛЕКТРОДЕТАЛЬ&quot;" />
+    <vpline num="1" oboz="РЮМК.430420.051 ТУ" kod="34 6430" name="СНП393-3ВП21-1-01-6,5" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;КАРАЧЕВСКИЙ ЗАВОД &quot;ЭЛЕКТРОДЕТАЛЬ&quot;" />
+    <vpline num="1" oboz="РЮМК.430420.051 ТУ" kod="34 6430" name="СНП393-4ВП21-1-01-6,5" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;КАРАЧЕВСКИЙ ЗАВОД &quot;ЭЛЕКТРОДЕТАЛЬ&quot;" />
+    <vpline num="1" oboz="РЮМК.430420.051 ТУ" kod="34 6430" name="СНП393-6ВП21-1-01-6,5" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;КАРАЧЕВСКИЙ ЗАВОД &quot;ЭЛЕКТРОДЕТАЛЬ&quot;" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Розетки" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="Фирма &quot;Te Connectivity&quot;" kod="66 7250" name="1734035-1" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;Чип и Дип&quot;" />
+    <vpline num="1" oboz="РЮМК.430420.051 ТУ" kod="66 7250" name="СНП393-10РП21-1" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;КАРАЧЕВСКИЙ ЗАВОД &quot;ЭЛЕКТРОДЕТАЛЬ&quot;" />
+    <vpline num="1" oboz="РЮМК.430420.019 ТУ" kod="66 7250" name="СНП393-6РП21-1" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;КАРАЧЕВСКИЙ ЗАВОД &quot;ЭЛЕКТРОДЕТАЛЬ&quot;" />
+    <vpline num="2" oboz="РЮМК.430420.051 ТУ" kod="66 7250" name="СНП393-8РП21-1" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;КАРАЧЕВСКИЙ ЗАВОД &quot;ЭЛЕКТРОДЕТАЛЬ&quot;" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Резонаторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="фирма EPSON" kod="63 2100" name="MC-206 32,768 кГц" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;Чип и Дип&quot;" />
+    <vpline num="1" oboz="ТУ 6321-002-72715118-2006" kod="63 2100" name="РК415-5ДС-8М -3 (24 пФ)" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО &quot;ПЬЕЗО&quot;" />
+    <vpline num="1" oboz="КЖДГ.433513.026ТУ" kod="63 2100" name="РК597-МД3-5АС-16000К-П24" comment="" underline="False" type="None" merge="False" vhodit="ДФТВ.434519.003.101" post="АО «Завод «Метеор»" />
+  </vplines>
+  <speclines>
+    <specline num="" oboz="" name="Документация" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="ДФТВ.434519.003СБ" name="Сборочный чертеж" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А3" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="ДФТВ.434519.003Э3" name="Схема электрическая принципиальная" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А3" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="ДФТВ.434519.003РЭ" name="Руководство по эксплуатации" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А4" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="ДФТВ.434519.003ПЭ3" name="Перечень элементов" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="A4" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="ДФТВ.434519.003ВП" name="Ведомость покупных" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А3" pos="" posinelement="0" />
+    <specline num="" oboz="" name="изделий" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Детали" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="ДФТВ.434519.003.101" name="Плата печатная" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А3" pos="1" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Программные изделия и базы данных" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="ДФТВ.434519.003.500ПД" name="Встраиваемое программное обеспечение " comment="ЭД" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="3" posinelement="0" />
+    <specline num="" oboz="" name="программатора-отладчика" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="ДФТВ.434519.003.510ПД" name="Встраиваемое программное обеспечение " comment="ЭД" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="5" posinelement="0" />
+    <specline num="" oboz="" name="демонстрационное" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Прочие изделия" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="АДПК.673511.021 ТУ" comment="" underline="False" type="ElementGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="6" oboz="" name="К10-79-100В-24 пФ±5%-МП0" comment="C8, C11, C12," underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="АДПК.673511.021 ТУ" format="" pos="7" posinelement="1" />
+    <specline num="" oboz="" name="" comment="C14, C20," underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="C24" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="3" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="22" oboz="" name="К10-79-10В-0,1 мкФ+80/-20%-Н90" comment="C1-C7, C9, C10," underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="АДПК.673511.021 ТУ" format="" pos="9" posinelement="1" />
+    <specline num="" oboz="" name="" comment="C13, C15-C19," underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="C21-C23, " underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="3" />
+    <specline num="" oboz="" name="" comment="C25-C28" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="4" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Микросхема MIK1117-3.3 ДВУК.431433.326-" comment="DA1, DA2" underline="False" type="None" merge="False" needtu="True" GroupLine1="Микросхемы" GroupLine2="ДВУК.431433.326-001И" format="" pos="11" posinelement="1" />
+    <specline num="" oboz="" name="001И" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Микросхема STM32F103CBU6 фирма " comment="DD2" underline="False" type="None" merge="False" needtu="True" GroupLine1="Микросхемы" GroupLine2="ТСКЯ.431000.001 ТУ" format="" pos="13" posinelement="1" />
+    <specline num="" oboz="" name="STMicroelectronics(ST)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Микросхема К1986ВЕ92FI ТСКЯ.431000.001  ТУ" comment="DD1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Микросхемы" GroupLine2="ТСКЯ.431000.001 ТУ" format="" pos="15" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Прибор световой сигнализации KAA-" comment="HL5" underline="False" type="None" merge="False" needtu="True" GroupLine1="Приборы световой сигнализации" GroupLine2="АЕЯР.432220.765 ТУ" format="" pos="17" posinelement="1" />
+    <specline num="" oboz="" name="3528ESGC фирма Kingbright" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Приборы световой сигнализации" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="АЕЯР.432220.765 ТУ" comment="" underline="False" type="ElementGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="ИПД169А91-K" comment="HL4" underline="False" type="None" merge="False" needtu="False" GroupLine1="Приборы световой сигнализации" GroupLine2="АЕЯР.432220.765 ТУ" format="" pos="19" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="ИПД169А91-Б" comment="HL3" underline="False" type="None" merge="False" needtu="False" GroupLine1="Приборы световой сигнализации" GroupLine2="АЕЯР.432220.765 ТУ" format="" pos="21" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="ИПД169А91-Ж" comment="HL1" underline="False" type="None" merge="False" needtu="False" GroupLine1="Приборы световой сигнализации" GroupLine2="АЕЯР.432220.765 ТУ" format="" pos="23" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="ИПД169А91-С" comment="HL2" underline="False" type="None" merge="False" needtu="False" GroupLine1="Приборы световой сигнализации" GroupLine2="АЕЯР.432220.765 ТУ" format="" pos="25" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Резисторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="ElementGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="4" oboz="" name="Р1-12-0,1-22 Ом±5%-М-&quot;К&quot;" comment="R21, R22, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="АБШК.434110.023 ТУ" format="" pos="27" posinelement="1" />
+    <specline num="" oboz="" name="" comment="R24, R25" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Р1-12-0,1-100 Ом±5%-М-&quot;К&quot;" comment="R19, R20" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="АБШК.434110.023 ТУ" format="" pos="29" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Р1-12-0,1-220 Ом±5%-М-&quot;К&quot;" comment="R18" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="АБШК.434110.023 ТУ" format="" pos="31" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="4" oboz="" name="Р1-12-0,1-330 Ом±5%-М-&quot;К&quot;" comment="R6-R9" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="АБШК.434110.023 ТУ" format="" pos="33" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Р1-12-0,1-1.5 кОм±5%-М-&quot;К&quot;" comment="R23, R26" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="АБШК.434110.023 ТУ" format="" pos="35" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Р1-12-0,1-4.7 кОм±5%-М-&quot;К&quot;" comment="R12, R13" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="АБШК.434110.023 ТУ" format="" pos="37" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Резисторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="ElementGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="11" oboz="" name="Р1-12-0,1-10 кОм±5%-М-&quot;К&quot;" comment="R1-R5, R10, R11," underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="АБШК.434110.023 ТУ" format="" pos="39" posinelement="1" />
+    <specline num="" oboz="" name="" comment="R14-R17" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Выключатель кнопочный KLS7-TS6604-" comment="SB1, SB2" underline="False" type="None" merge="False" needtu="True" GroupLine1="Выключатели кнопочные" GroupLine2="фирма KLS electronic co ltd" format="" pos="41" posinelement="1" />
+    <specline num="" oboz="" name="7.0-180-B(Т) фирма KLS electronic co ltd" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Диод BAT60JFILM фирма ST " comment="VD1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Диоды" GroupLine2="фирма ST Microelectronics" format="" pos="43" posinelement="1" />
+    <specline num="" oboz="" name="Microelectronics" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Транзистор КТ229Г9 АДКБ.432140.555" comment="VT1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Транзисторы" GroupLine2="АДКБ.432140.555" format="" pos="45" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Вилки" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="РЮМК.430420.041 ТУ" comment="" underline="False" type="ElementGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="СНП377-2ВП21-1-14-6,0" comment="XP10, XP11" underline="False" type="None" merge="False" needtu="False" GroupLine1="Вилки" GroupLine2="РЮМК.430420.041 ТУ" format="" pos="47" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="СНП377-38ВП21-2-14-6,0" comment="XP1, XP2" underline="False" type="None" merge="False" needtu="False" GroupLine1="Вилки" GroupLine2="РЮМК.430420.041 ТУ" format="" pos="49" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Вилки" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="РЮМК.430420.051 ТУ" comment="" underline="False" type="ElementGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="4" oboz="" name="СНП393-2ВП21-1-01-6,5" comment="XP3, XP5, XP6," underline="False" type="None" merge="False" needtu="False" GroupLine1="Вилки" GroupLine2="РЮМК.430420.041 ТУ" format="" pos="51" posinelement="1" />
+    <specline num="" oboz="" name="" comment="XP9" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="СНП393-3ВП21-1-01-6,5" comment="XP4" underline="False" type="None" merge="False" needtu="False" GroupLine1="Вилки" GroupLine2="РЮМК.430420.041 ТУ" format="" pos="53" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Вилки" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="РЮМК.430420.051 ТУ" comment="" underline="False" type="ElementGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="СНП393-4ВП21-1-01-6,5" comment="XP8" underline="False" type="None" merge="False" needtu="False" GroupLine1="Вилки" GroupLine2="РЮМК.430420.041 ТУ" format="" pos="55" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="СНП393-6ВП21-1-01-6,5" comment="XP7" underline="False" type="None" merge="False" needtu="False" GroupLine1="Вилки" GroupLine2="РЮМК.430420.041 ТУ" format="" pos="57" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Розетка 1734035-1 Фирма &quot;Te Connectivity&quot;" comment="XS5" underline="False" type="None" merge="False" needtu="True" GroupLine1="Розетки" GroupLine2="РЮМК.430420.051 ТУ" format="" pos="59" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Розетка СНП393-10РП21-1 " comment="XS4" underline="False" type="None" merge="False" needtu="True" GroupLine1="Розетки" GroupLine2="РЮМК.430420.051 ТУ" format="" pos="61" posinelement="1" />
+    <specline num="" oboz="" name="РЮМК.430420.051 ТУ" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Розетка СНП393-6РП21-1 РЮМК.430420.019 ТУ" comment="XS2" underline="False" type="None" merge="False" needtu="True" GroupLine1="Розетки" GroupLine2="РЮМК.430420.051 ТУ" format="" pos="63" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Розетка СНП393-8РП21-1 РЮМК.430420.051 ТУ" comment="XS1, XS3" underline="False" type="None" merge="False" needtu="True" GroupLine1="Розетки" GroupLine2="РЮМК.430420.051 ТУ" format="" pos="65" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Резонатор MC-206 32,768 кГц фирма " comment="ZQ1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резонаторы" GroupLine2="фирма EPSON" format="" pos="67" posinelement="1" />
+    <specline num="" oboz="" name="EPSON" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Резонатор РК415-5ДС-8М -3 (24 пФ) ТУ " comment="ZQ3" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резонаторы" GroupLine2="фирма EPSON" format="" pos="69" posinelement="1" />
+    <specline num="" oboz="" name="6321-002-72715118-2006" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Резонатор РК597-МД3-5АС-16000К-" comment="ZQ2" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резонаторы" GroupLine2="фирма EPSON" format="" pos="71" posinelement="1" />
+    <specline num="" oboz="" name="П24 КЖДГ.433513.026ТУ" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+  </speclines>
+  <speclinespp />
+  <groups>
+    <group name="default">
+      <param name="Component Name" delemiter=" " />
+    </group>
+  </groups>
+  <groupscategory />
+  <razdels>
+    <razdel name="docs" np="False">
+      <specline num="" oboz="ДФТВ.434519.003СБ" name="Сборочный чертеж" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А3" pos="" id="lineSB1" posinelement="0" />
+      <specline num="" oboz="ДФТВ.434519.003Э3" name="Схема электрическая принципиальная" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А3" pos="" id="lineSch1" posinelement="0" />
+      <specline num="" oboz="ДФТВ.434519.003РЭ" name="Руководство по эксплуатации" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А4" pos="" id="" posinelement="0" />
+      <specline num="" oboz="ДФТВ.434519.003ПЭ3" name="Перечень элементов" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="A4" pos="" id="linePE1" posinelement="0" />
+      <specline num="" oboz="ДФТВ.434519.003ВП" name="Ведомость покупных  изделий" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А3" pos="" id="lineVP1" posinelement="0" />
+    </razdel>
+    <razdel name="docsPP" np="False">
+      <specline num="" oboz="ДФТВ.434519.003.101" name="Сборочный чертеж" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А3" pos="" id="lineSB1" posinelement="0" />
+    </razdel>
+    <razdel name="detali" np="False">
+      <specline num="1" oboz="ДФТВ.434519.003.101" name="Плата печатная" comment="*)А3, А2" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А3" pos="1" id="lineBDetail1" posinelement="0" />
+    </razdel>
+    <razdel name="software" np="False">
+      <specline num="1" oboz="ДФТВ.434519.003.500ПД" name="Встраиваемое программное обеспечение программатора-отладчика" comment="ЭД" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="3" id="" posinelement="0" />
+      <specline num="1" oboz="ДФТВ.434519.003.510ПД" name="Встраиваемое программное обеспечение демонстрационное" comment="ЭД" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="5" id="" posinelement="0" />
+    </razdel>
+    <razdel name="prochie" np="False" />
+  </razdels>
+  <Stamps>
+    <Stamp document="PE">
+      <param name="Разработал" value="Флоренцев" />
+      <param name="Проверил" value="Бирюков" />
+      <param name="Начальник отдела" value="" />
+      <param name="Начальник отдела ( альтернативное название параметра)" value="" />
+      <param name="Утвердил" value="Флоренцев" />
+      <param name="Нормоконтроль" value="Марданова" />
+      <param name="Технолог" value="Флоренцева" />
+      <param name="Графа 04 - Литера" value="О₁" />
+      <param name="Графа 04 - Литера2" value="О₂" />
+      <param name="Графа 04 - Литера3" value="А" />
+      <param name="Графа 12 - Подпись" value="" />
+      <param name="Графа 14 - Порядковый номер изменения" value="" />
+      <param name="Графа 15 - Указания об изменении листа" value="" />
+      <param name="Графа 16 - Номер извещения" value="" />
+      <param name="Графа 19 - Инвентарный номер подлинника" value="" />
+      <param name="Графа 20 - Подпись и дата приемки в СТД" value="" />
+      <param name="Графа 21 - Взам. инв №" value="" />
+      <param name="Графа 22 - Инвентарный номер дубликата" value="" />
+      <param name="Графа 23 - Подпись и дата приемки дубликата в СТД" value="" />
+      <param name="Графа 24 - Справ. №" value="" />
+      <param name="Графа 28 - Номер и год утверждения литеры" value="" />
+      <param name="Графа 29 - Номер и год утверждения документации" value="" />
+      <param name="Графа 30 - Индекс заказчика" value="" />
+      <param name="Извещение_дата" value="" />
+      <param name="Разработал_дата" value="5.08.25" />
+      <param name="Проверил_дата" value="5.08.25" />
+      <param name="Технолог_дата" value="5.08.25" />
+      <param name="Начальник отдела_дата" value="" />
+      <param name="Нормоконтроль_дата" value="5.08.25" />
+      <param name="Утвердил_дата" value="5.08.25" />
+      <param name="Извещение_подпись" value="" />
+      <param name="Разработал_подпись" value="" />
+      <param name="Проверил_подпись" value="" />
+      <param name="Технолог_подпись" value="" />
+      <param name="Начальник отдела_подпись" value="" />
+      <param name="Нормоконтроль_подпись" value="" />
+      <param name="Утвердил_подпись" value="" />
+    </Stamp>
+    <Stamp document="VP">
+      <param name="Разработал" value="Флоренцев" />
+      <param name="Проверил" value="Бирюков" />
+      <param name="Начальник отдела" value="" />
+      <param name="Начальник отдела ( альтернативное название параметра)" value="" />
+      <param name="Утвердил" value="Флоренцев" />
+      <param name="Нормоконтроль" value="Марданова" />
+      <param name="Технолог" value="Флоренцева" />
+      <param name="Графа 04 - Литера" value="О₁" />
+      <param name="Графа 04 - Литера2" value="О₂" />
+      <param name="Графа 04 - Литера3" value="А" />
+      <param name="Графа 12 - Подпись" value="" />
+      <param name="Графа 14 - Порядковый номер изменения" value="" />
+      <param name="Графа 15 - Указания об изменении листа" value="" />
+      <param name="Графа 16 - Номер извещения" value="" />
+      <param name="Графа 19 - Инвентарный номер подлинника" value="" />
+      <param name="Графа 20 - Подпись и дата приемки в СТД" value="" />
+      <param name="Графа 21 - Взам. инв №" value="" />
+      <param name="Графа 22 - Инвентарный номер дубликата" value="" />
+      <param name="Графа 23 - Подпись и дата приемки дубликата в СТД" value="" />
+      <param name="Графа 24 - Справ. №" value="" />
+      <param name="Графа 28 - Номер и год утверждения литеры" value="" />
+      <param name="Графа 29 - Номер и год утверждения документации" value="" />
+      <param name="Графа 30 - Индекс заказчика" value="" />
+      <param name="Извещение_дата" value="" />
+      <param name="Разработал_дата" value="" />
+      <param name="Проверил_дата" value="" />
+      <param name="Технолог_дата" value="" />
+      <param name="Начальник отдела_дата" value="" />
+      <param name="Нормоконтроль_дата" value="" />
+      <param name="Утвердил_дата" value="" />
+      <param name="Извещение_подпись" value="" />
+      <param name="Разработал_подпись" value="" />
+      <param name="Проверил_подпись" value="" />
+      <param name="Технолог_подпись" value="" />
+      <param name="Начальник отдела_подпись" value="" />
+      <param name="Нормоконтроль_подпись" value="" />
+      <param name="Утвердил_подпись" value="" />
+    </Stamp>
+    <Stamp document="SP">
+      <param name="Разработал" value="Флоренцев" />
+      <param name="Проверил" value="Бирюков" />
+      <param name="Начальник отдела" value="" />
+      <param name="Начальник отдела ( альтернативное название параметра)" value="" />
+      <param name="Утвердил" value="Флоренцев" />
+      <param name="Нормоконтроль" value="Марданова" />
+      <param name="Технолог" value="Фалоренцева" />
+      <param name="Графа 04 - Литера" value="О₁" />
+      <param name="Графа 04 - Литера2" value="О₂" />
+      <param name="Графа 04 - Литера3" value="А" />
+      <param name="Графа 12 - Подпись" value="" />
+      <param name="Графа 14 - Порядковый номер изменения" value="" />
+      <param name="Графа 15 - Указания об изменении листа" value="" />
+      <param name="Графа 16 - Номер извещения" value="" />
+      <param name="Графа 19 - Инвентарный номер подлинника" value="" />
+      <param name="Графа 20 - Подпись и дата приемки в СТД" value="" />
+      <param name="Графа 21 - Взам. инв №" value="" />
+      <param name="Графа 22 - Инвентарный номер дубликата" value="" />
+      <param name="Графа 23 - Подпись и дата приемки дубликата в СТД" value="" />
+      <param name="Графа 24 - Справ. №" value="" />
+      <param name="Графа 28 - Номер и год утверждения литеры" value="" />
+      <param name="Графа 29 - Номер и год утверждения документации" value="" />
+      <param name="Графа 30 - Индекс заказчика" value="" />
+      <param name="Извещение_дата" value="" />
+      <param name="Разработал_дата" value="" />
+      <param name="Проверил_дата" value="" />
+      <param name="Технолог_дата" value="" />
+      <param name="Начальник отдела_дата" value="" />
+      <param name="Нормоконтроль_дата" value="" />
+      <param name="Утвердил_дата" value="" />
+      <param name="Извещение_подпись" value="" />
+      <param name="Разработал_подпись" value="" />
+      <param name="Проверил_подпись" value="" />
+      <param name="Технолог_подпись" value="" />
+      <param name="Начальник отдела_подпись" value="" />
+      <param name="Нормоконтроль_подпись" value="" />
+      <param name="Утвердил_подпись" value="" />
+    </Stamp>
+    <Stamp document="SPP">
+      <param name="Разработал" value="Флоренцев" />
+      <param name="Проверил" value="Бирюков" />
+      <param name="Начальник отдела" value="" />
+      <param name="Начальник отдела ( альтернативное название параметра)" value="" />
+      <param name="Утвердил" value="Флоренцев" />
+      <param name="Нормоконтроль" value="Кулиев" />
+      <param name="Технолог" value="" />
+      <param name="Графа 04 - Литера" value="И" />
+      <param name="Графа 04 - Литера2" value="" />
+      <param name="Графа 04 - Литера3" value="" />
+      <param name="Графа 12 - Подпись" value="" />
+      <param name="Графа 14 - Порядковый номер изменения" value="" />
+      <param name="Графа 15 - Указания об изменении листа" value="" />
+      <param name="Графа 16 - Номер извещения" value="" />
+      <param name="Графа 19 - Инвентарный номер подлинника" value="" />
+      <param name="Графа 20 - Подпись и дата приемки в СТД" value="" />
+      <param name="Графа 21 - Взам. инв №" value="" />
+      <param name="Графа 22 - Инвентарный номер дубликата" value="" />
+      <param name="Графа 23 - Подпись и дата приемки дубликата в СТД" value="" />
+      <param name="Графа 24 - Справ. №" value="" />
+      <param name="Графа 28 - Номер и год утверждения литеры" value="" />
+      <param name="Графа 29 - Номер и год утверждения документации" value="" />
+      <param name="Графа 30 - Индекс заказчика" value="" />
+      <param name="Извещение_дата" value="" />
+      <param name="Разработал_дата" value="" />
+      <param name="Проверил_дата" value="" />
+      <param name="Технолог_дата" value="" />
+      <param name="Начальник отдела_дата" value="" />
+      <param name="Нормоконтроль_дата" value="" />
+      <param name="Утвердил_дата" value="" />
+      <param name="Извещение_подпись" value="" />
+      <param name="Разработал_подпись" value="" />
+      <param name="Проверил_подпись" value="" />
+      <param name="Технолог_подпись" value="" />
+      <param name="Начальник отдела_подпись" value="" />
+      <param name="Нормоконтроль_подпись" value="" />
+      <param name="Утвердил_подпись" value="" />
+    </Stamp>
+  </Stamps>
+</BoasConfig>

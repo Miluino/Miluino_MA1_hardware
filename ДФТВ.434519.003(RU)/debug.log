@@ -1,0 +1,2 @@
+[0124/213700.377:ERROR:context.cc(140)] The cache_path directory (C:\ProgramData\Altium\Altium Designer {68B5C0BC-14B8-445C-8824-B977E9214972}\BrowserCache) is not a child of the root_cache_path directory (C:\ProgramData\Altium\Altium Designer {68B5C0BC-14B8-445C-8824-B977E9214972}\UserData)
+[0124/213700.378:ERROR:context.cc(164)] The cache_path is invalid. Defaulting to in-memory storage.
