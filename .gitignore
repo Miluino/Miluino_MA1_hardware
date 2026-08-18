@@ -18,3 +18,5 @@ PCB_Miluino/Project Logs for PCB_Miluino/
 PCB_Miluino/PDF_Files/
 
 *.OutJob
+
+tmp/
