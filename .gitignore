@@ -20,3 +20,5 @@ PCB_Miluino/PDF_Files/
 *.OutJob
 
 tmp/
+
+docs/
