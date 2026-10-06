@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QRLJZZSS
 
 [Document5]
-DocumentPath=PCB_Miluino.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=USB-C.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFQGZJOK
 
-[Document7]
+[Document6]
 DocumentPath=PowerSelector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DKBKJBEK
 
-[Document8]
+[Document7]
 DocumentPath=PowerSelector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJLQBYUD
 
-[Document9]
+[Document8]
 DocumentPath=JTAG_Channel_Selector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHPYCDQP
 
-[Document10]
+[Document9]
 DocumentPath=PCB - CONNECTOR - USB - TE USB-C 2129691-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOVYWBGM
 
-[Document11]
+[Document10]
 DocumentPath=DAP_Scheme.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HALQOAFC
 
-[Document12]
+[Document11]
 DocumentPath=..\ДФТВ.434519.003(RU)\Stm32f103_DAP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJMZECWD
 
-[Document13]
+[Document12]
 DocumentPath=External_Target_SWD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHLPYJWU
 
-[Document14]
+[Document13]
 DocumentPath=External_Target_SWD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NESXJQPY
 
-[Document15]
+[Document14]
 DocumentPath=Target_Selector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUZWXLMI
 
-[Document16]
+[Document15]
 DocumentPath=Target_Selector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HMAQNIPA
 
-[Document17]
+[Document16]
 DocumentPath=ARM_10-pin_interface.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQEEVPBC
 
-[Document18]
+[Document17]
 DocumentPath=ARM_10-pin_interface.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,8 +338,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTAWGIDT
 
-[Document19]
-DocumentPath=SPARE_JMP.SchLib
+[Document18]
+DocumentPath=GND_Headers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -372,8 +355,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LQCFLQVS
 
-[Document20]
-DocumentPath=SPARE_JMP.PcbLib
+[Document19]
+DocumentPath=GND_Headers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INRIRRGV
 
-[Document21]
+[Document20]
 DocumentPath=DAP_VCP_MON.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBXCGDXG
 
-[Document22]
+[Document21]
 DocumentPath=DAP_VCP_MON.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKUBYUVW
 
-[Document23]
+[Document22]
 DocumentPath=DAP_PRG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQGXIMFE
 
-[Document24]
+[Document23]
 DocumentPath=DAP_PRG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,6 +439,142 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUJHXDGM
+
+[Document24]
+DocumentPath=DAP_LOG.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BQTWLXDM
+
+[Document25]
+DocumentPath=DAP_LOG.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CTANLGSM
+
+[Document26]
+DocumentPath=LinearVoltageRegulator.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SNWXQKIM
+
+[Document27]
+DocumentPath=USBLC6-2.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DFQQCZXQ
+
+[Document28]
+DocumentPath=TPS2553.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JLTHZWDZ
+
+[Document29]
+DocumentPath=DAP_External_Power_Outputs.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MNUIMDWB
+
+[Document30]
+DocumentPath=DAP_Interfaces.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GWXBGHLP
+
+[Document31]
+DocumentPath=Miluino_Scheme.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
@@ -1494,71 +1613,149 @@ ComponentSymbolReference3=ArduinoPowerHeader
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=JTAG_Channel_Selector.SchLib
-ComponentDesignItemID4=JTAG_Channel_Selector
-ComponentSymbolReference4=JTAG_Channel_Selector
+ComponentLibraryIdentifier4=ARM_10-pin_interface.SchLib
+ComponentDesignItemID4=ARM 10-pin interface
+ComponentSymbolReference4=ARM 10-pin interface
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=PowerSelector.SchLib
-ComponentDesignItemID5=MCUPowerSelector
-ComponentSymbolReference5=MCUPowerSelector
+ComponentLibraryIdentifier5=DAP_Interfaces.SchLib
+ComponentDesignItemID5=DAP_External_Power_Outputs
+ComponentSymbolReference5=DAP_External_Power_Outputs
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Simulation Generic Components.IntLib
-ComponentDesignItemID6=SPST SW
-ComponentSymbolReference6=SPST SW
+ComponentLibraryIdentifier6=DAP_LOG.SchLib
+ComponentDesignItemID6=DAP_LOG
+ComponentSymbolReference6=DAP_LOG
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=StMorpho.SchLib
-ComponentDesignItemID7=StMorpho
-ComponentSymbolReference7=StMorpho
+ComponentLibraryIdentifier7=DAP_PRG.SchLib
+ComponentDesignItemID7=DAP_PRG
+ComponentSymbolReference7=DAP_PRG
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=USB-C.SchLib
-ComponentDesignItemID8=USB Type-C Receptacle
-ComponentSymbolReference8=USB Type-C Receptacle
+ComponentLibraryIdentifier8=DAP_VCP_MON.SchLib
+ComponentDesignItemID8=DAP_VCP_MON
+ComponentSymbolReference8=DAP_VCP_MON
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=БИБЛИОТЕКА.IntLib
-ComponentDesignItemID9=Cap
-ComponentSymbolReference9=Cap
+ComponentLibraryIdentifier9=External_Target_SWD.SchLib
+ComponentDesignItemID9=External_Target_SWD
+ComponentSymbolReference9=External_Target_SWD
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=БИБЛИОТЕКА.IntLib
-ComponentDesignItemID10=LED
-ComponentSymbolReference10=LED
+ComponentLibraryIdentifier10=JTAG_Channel_Selector.SchLib
+ComponentDesignItemID10=JTAG_Channel_Selector
+ComponentSymbolReference10=JTAG_Channel_Selector
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=БИБЛИОТЕКА.IntLib
-ComponentDesignItemID11=res
-ComponentSymbolReference11=res
+ComponentLibraryIdentifier11=PowerSelector.SchLib
+ComponentDesignItemID11=MCUPowerSelector
+ComponentSymbolReference11=MCUPowerSelector
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=БИБЛИОТЕКА.IntLib
-ComponentDesignItemID12=SW-PB
-ComponentSymbolReference12=SW-PB
+ComponentLibraryIdentifier12=SPARE_JMP.SchLib
+ComponentDesignItemID12=SPARE JMP
+ComponentSymbolReference12=SPARE JMP
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=К1986ВЕ92FI.IntLib
-ComponentDesignItemID13=К1986ВЕ92FI
-ComponentSymbolReference13=К1986ВЕ92FI
+ComponentLibraryIdentifier13=Stm32f103_DAP.SchLib
+ComponentDesignItemID13=Component_1
+ComponentSymbolReference13=Component_1
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=Осцилляторы.IntLib
-ComponentDesignItemID14=Кварцевые резонаторы
-ComponentSymbolReference14=Кварцевые резонаторы
+ComponentLibraryIdentifier14=StMorpho.SchLib
+ComponentDesignItemID14=StMorpho
+ComponentSymbolReference14=StMorpho
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=Target_Selector.SchLib
+ComponentDesignItemID15=Target_Selector
+ComponentSymbolReference15=Target_Selector
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=TPS2553.SchLib
+ComponentDesignItemID16=TPS2553
+ComponentSymbolReference16=TPS2553
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=USB-C.SchLib
+ComponentDesignItemID17=USB Type-C Receptacle
+ComponentSymbolReference17=USB Type-C Receptacle
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=USBLC6-2.SchLib
+ComponentDesignItemID18=USBLC6-2
+ComponentSymbolReference18=USBLC6-2
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=БИБЛИОТЕКА.IntLib
+ComponentDesignItemID19=Cap
+ComponentSymbolReference19=Cap
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=БИБЛИОТЕКА.IntLib
+ComponentDesignItemID20=LED
+ComponentSymbolReference20=LED
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=БИБЛИОТЕКА.IntLib
+ComponentDesignItemID21=res
+ComponentSymbolReference21=res
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=БИБЛИОТЕКА.IntLib
+ComponentDesignItemID22=SWD1-3
+ComponentSymbolReference22=SWD1-3
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=БИБЛИОТЕКА.IntLib
+ComponentDesignItemID23=SW-PB
+ComponentSymbolReference23=SW-PB
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=БИБЛИОТЕКА.IntLib
+ComponentDesignItemID24=TRANS-N-FET
+ComponentSymbolReference24=TRANS-N-FET
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=БИБЛИОТЕКА.IntLib
+ComponentDesignItemID25=TRANS-P-FET
+ComponentSymbolReference25=TRANS-P-FET
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=К1986ВЕ92FI.IntLib
+ComponentDesignItemID26=К1986ВЕ92FI
+ComponentSymbolReference26=К1986ВЕ92FI
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=Осцилляторы.IntLib
+ComponentDesignItemID27=Кварцевые резонаторы
+ComponentSymbolReference27=Кварцевые резонаторы
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1576,127 +1773,141 @@ ParameterName0=Alternating Manufacture
 ParameterUpdate0=1
 ParameterName1=Category
 ParameterUpdate1=1
-ParameterName2=closed
+ParameterName2=Comment
 ParameterUpdate2=1
-ParameterName3=Comment
+ParameterName3=Component Kind
 ParameterUpdate3=1
-ParameterName4=Component Kind
+ParameterName4=Component Name
 ParameterUpdate4=1
-ParameterName5=Component Name
+ParameterName5=Description
 ParameterUpdate5=1
-ParameterName6=Description
+ParameterName6=Distributer
 ParameterUpdate6=1
-ParameterName7=Distributer
+ParameterName7=Library Reference
 ParameterUpdate7=1
-ParameterName8=Library Reference
+ParameterName8=Model
 ParameterUpdate8=1
-ParameterName9=Model
+ParameterName9=Product Code
 ParameterUpdate9=1
-ParameterName10=Product Code
+ParameterName10=Published
 ParameterUpdate10=1
-ParameterName11=Published
+ParameterName11=Publisher
 ParameterUpdate11=1
-ParameterName12=Publisher
+ParameterName12=TU/GOST
 ParameterUpdate12=1
-ParameterName13=Rclosed
+ParameterName13=Type
 ParameterUpdate13=1
-ParameterName14=Ropen
+ParameterName14=Value
 ParameterUpdate14=1
-ParameterName15=SimulationGenericComponent
-ParameterUpdate15=1
-ParameterName16=TU/GOST
-ParameterUpdate16=1
-ParameterName17=Type
-ParameterUpdate17=1
-ParameterName18=Value
-ParameterUpdate18=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=BT-XTAL_2520
+ModelName0=ARM 10-pin interface
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=Clock OSC
+ModelName1=BT-XTAL_2520
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=CRYSTAL_CMR309T
+ModelName2=Clock OSC
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=CRYSTAL_HC49-US-SM
+ModelName3=CRYSTAL_CMR309T
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=DSO-N4
+ModelName4=CRYSTAL_HC49-US-SM
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=HC-49S
+ModelName5=DAP_LOG
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=HC-49SM
+ModelName6=DAP_PRG
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=HC-49SM-C
+ModelName7=DSO-N4
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=HC-49U
+ModelName8=External_Target_SWD
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=HC-49U-W
+ModelName9=HC-49S
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=KX5
+ModelName10=HC-49SM
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=KX9A
+ModelName11=HC-49SM-C
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=PowerSelector
+ModelName12=HC-49U
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=SMD 3.2x2.5mm
+ModelName13=HC-49U-W
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=SMD 5x3.2mm
+ModelName14=JTAG_Channel_Selector
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=SMD 6x3.5mm
+ModelName15=KX5
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=SMD 7.1x5.1mm
+ModelName16=KX9A
 ModelUpdate16=1
 ModelType17=PCBLIB
-ModelName17=SMD 7.1x5.1mm-6p
+ModelName17=PCBComponent_1
 ModelUpdate17=1
 ModelType18=PCBLIB
-ModelName18=SMD 7x5mm
+ModelName18=PowerSelector
 ModelUpdate18=1
 ModelType19=PCBLIB
-ModelName19=SX-2520
+ModelName19=SMD 3.2x2.5mm
 ModelUpdate19=1
 ModelType20=PCBLIB
-ModelName20=SX-3215
+ModelName20=SMD 5x3.2mm
 ModelUpdate20=1
 ModelType21=PCBLIB
-ModelName21=SX-3225
+ModelName21=SMD 6x3.5mm
 ModelUpdate21=1
 ModelType22=PCBLIB
-ModelName22=XTAL
+ModelName22=SMD 7.1x5.1mm
 ModelUpdate22=1
 ModelType23=PCBLIB
-ModelName23=К1986ВЕ92FI
+ModelName23=SMD 7.1x5.1mm-6p
 ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=SMD 7x5mm
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=SPARE JMP
+ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=SX-2520
+ModelUpdate26=1
+ModelType27=PCBLIB
+ModelName27=SX-3215
+ModelUpdate27=1
+ModelType28=PCBLIB
+ModelName28=SX-3225
+ModelUpdate28=1
+ModelType29=PCBLIB
+ModelName29=Target_Selector
+ModelUpdate29=1
+ModelType30=PCBLIB
+ModelName30=TE USB-C 2129691-1
+ModelUpdate30=1
+ModelType31=PCBLIB
+ModelName31=XTAL
+ModelUpdate31=1
+ModelType32=PCBLIB
+ModelName32=К1986ВЕ92FI
+ModelUpdate32=1
 ModelTypeGroup1=SI
 ModelTypeUpdate1=1
-ModelType24=SI
-ModelName24=Cap
-ModelUpdate24=1
-ModelType25=SI
-ModelName25=Res
-ModelUpdate25=1
-ModelTypeGroup2=SIM
-ModelTypeUpdate2=1
-ModelType26=SIM
-ModelName26=SPST_SWITCH
-ModelUpdate26=1
+ModelType33=SI
+ModelName33=Cap
+ModelUpdate33=1
+ModelType34=SI
+ModelName34=Res
+ModelUpdate34=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
