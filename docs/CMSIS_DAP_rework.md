@@ -622,7 +622,7 @@ XP5 относится только к DAP MCU и не соединяется с
 | JTAG_A | JA_TCK, JA_TMS, JA_TDI, JA_TDO_SWO, JA_nTRST |
 | JTAG_B | JB_TCK, JB_TMS, JB_TDI, JB_TDO_SWO, JB_nTRST |
 | Маршрутизация | DAP_ROUTE_EXTERNAL, DAP_ROUTE_OFF, DAP_ROUTE_TARGET, DBG_SEL_A, DBG_SEL_B, DBG_SEL_OFF |
-| Питание | USB_DAP_VBUS, USB_TARGET_VBUS, +5V_DAP_USB, +5V_TARGET_USB, +5V_VIN, +5V_TARGET, +5V_DAP_OUT, +3V3_DAP, +3V3_DAP_OUT, +3V3_TGT, BUcc, EXT_VTREF, LOC_VTREF, DBG_VTREF |
+| Питание | USB_DAP_VBUS, USB_TARGET_VBUS, +5V_DAP_USB, +5V_TARGET_USB, +5V_Vin_Line, +5V_TARGET, +5V_DAP_OUT, +3V3_DAP, +3V3_DAP_OUT, +3V3_TGT, BUcc, EXT_VTREF, LOC_VTREF, DBG_VTREF |
 | Управление питанием | DAP_TARGET_PWR_EN |
 | Обычный VCP / MODE=101 | DAP_VCP_TX, DAP_VCP_RX, VCP_RX_PD0, VCP_TX_PD1 |
 | Логгер DAP | DAP_LOG_TX |
@@ -646,8 +646,8 @@ XP5 относится только к DAP MCU и не соединяется с
 | SWCLK/SWDIO DD2 | Подключать к XP7 либо локальной DBG-шине только через XP8 |
 | NRST target | Open-drain от DAP; окончательную схему утвердить вместе с питанием |
 | XP5 UART / XP9 BOOT0 DD2 | Удалить исходный UART-разъём и XP9; XP5 выполнить как установленный сервисный SWD-разъём 1x5 с шагом 2,54 мм, BOOT0 и PB2/BOOT1 постоянно подтянуть к GND через 10 кОм |
-| XP4 питание | Заменить четырёхконтактным T-образным селектором `+5V_DAP_USB / +5V_TARGET_USB / +5V_VIN -> +5V_TARGET`; снятый джампер обеспечивает TARGET OFF |
-| VIN -> +5V_VIN | Использовать `LMR51410XDBVR` для входа 8...18 В, номинально 12 В; установить дроссель 33 мкГн, входные 4,7 мкФ + 100 нФ, bootstrap-конденсатор 100 нФ, выходной конденсатор 22 мкФ и делитель 118 кОм / 22,1 кОм; EN подключить непосредственно к VIN; bulk-конденсатор, внешний диод и минимальную нагрузку не устанавливать |
+| XP4 питание | Заменить четырёхконтактным T-образным селектором `+5V_DAP_USB / +5V_TARGET_USB / +5V_Vin_Line -> +5V_TARGET`; снятый джампер обеспечивает TARGET OFF |
+| VIN -> +5V_Vin_Line | Использовать `LMR51410XDBVR` для входа 8...18 В, номинально 12 В; установить дроссель 33 мкГн, входные 4,7 мкФ + 100 нФ, bootstrap-конденсатор 100 нФ, выходной конденсатор 22 мкФ и делитель 118 кОм / 22,1 кОм; EN подключить непосредственно к VIN; bulk-конденсатор, внешний диод и минимальную нагрузку не устанавливать |
 | +3V3_TGT | Формировать от `+5V_TARGET` через `TLV76133DCYR` с входным конденсатором 1 мкФ X7R и выходным 4,7 мкФ X7R |
 | XP3/UART | Сохранить или переработать как сервисный header внешнего USB-UART; встроенный VCP подключать только к PD0/PD1 через R208/R209 |
 | Индикация ST-Link | Заменить функциональным аналогом Nucleo COM: двухцветный красно-зелёный LED; при необходимости добавить DAP_POWER |
