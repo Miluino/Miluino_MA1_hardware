@@ -220,23 +220,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HALQOAFC
 
 [Document11]
-DocumentPath=..\ДФТВ.434519.003(RU)\Stm32f103_DAP.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NJMZECWD
-
-[Document12]
 DocumentPath=External_Target_SWD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHLPYJWU
 
-[Document13]
+[Document12]
 DocumentPath=External_Target_SWD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NESXJQPY
 
-[Document14]
+[Document13]
 DocumentPath=ARM_10-pin_interface.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQEEVPBC
 
-[Document15]
+[Document14]
 DocumentPath=ARM_10-pin_interface.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTAWGIDT
 
-[Document16]
+[Document15]
 DocumentPath=GND_Headers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LQCFLQVS
 
-[Document17]
+[Document16]
 DocumentPath=GND_Headers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INRIRRGV
 
-[Document18]
+[Document17]
 DocumentPath=LinearVoltageRegulator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNWXQKIM
 
-[Document19]
+[Document18]
 DocumentPath=USBLC6-2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFQQCZXQ
 
-[Document20]
+[Document19]
 DocumentPath=TPS2553.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLTHZWDZ
 
-[Document21]
+[Document20]
 DocumentPath=DAP_Interfaces.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWXBGHLP
 
-[Document22]
+[Document21]
 DocumentPath=Miluino_Scheme.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=Power_Scheme.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BWMMLSUB
 
-[Document24]
+[Document23]
 DocumentPath=DAP_Interface.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=THHFSMGO
 
-[Document25]
+[Document24]
 DocumentPath=LMR514xx.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1487,12 +1470,36 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=К1986ВЕ92FI.IntLib
-ComponentDesignItemID0=К1986ВЕ92FI
-ComponentSymbolReference0=К1986ВЕ92FI
+ComponentLibraryIdentifier0=ArduinoHeaders.SchLib
+ComponentDesignItemID0=ArduinoAnalogHeader
+ComponentSymbolReference0=ArduinoAnalogHeader
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-FullReplace=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=ArduinoHeaders.SchLib
+ComponentDesignItemID1=ArduinoDigital_1
+ComponentSymbolReference1=ArduinoDigital_1
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=ArduinoHeaders.SchLib
+ComponentDesignItemID2=ArduinoDigital_2
+ComponentSymbolReference2=ArduinoDigital_2
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=ArduinoHeaders.SchLib
+ComponentDesignItemID3=ArduinoPowerHeader
+ComponentSymbolReference3=ArduinoPowerHeader
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=StMorpho.SchLib
+ComponentDesignItemID4=StMorpho
+ComponentSymbolReference4=STMorpho
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
 PreserveParameterLocations=1
@@ -1513,11 +1520,6 @@ ParameterName2=Description
 ParameterUpdate2=1
 ParameterName3=Library Reference
 ParameterUpdate3=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=К1986ВЕ92FI
-ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
